@@ -31,7 +31,7 @@ API дозволяє виконувати основні операції над
 ### 1. Клонувати репозиторій
 
 ```bash
-git clone https://github.com/ТВОЙ_ЛОГИН/coursework_api.git
+git clone https://github.com/kren1ch/kursovaapimysql.git
 cd coursework_api
 ```
 
